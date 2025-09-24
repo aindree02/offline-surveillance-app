@@ -1,4 +1,4 @@
-roject Overview:-
+Project Overview:-
 
 This project implements a Smart Surveillance System that integrates facial recognition and automatic number plate recognition (ANPR) for real-time dual authentication. It combines open-source tools such as OpenCV, face_recognition, EasyOCR, and PyQt5 into an offline, GUI-based application. The system is designed to be user-friendly for non-technical staff, scalable, and deployable without reliance on cloud services.
 
